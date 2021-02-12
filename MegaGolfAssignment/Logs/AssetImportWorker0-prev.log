@@ -1,0 +1,931 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1316; Version 1909; 64bit' Language: 'en' Physical Memory: 16229 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Owner/Documents/GitHub/MegaGolfAssignment/MegaGolfAssignment
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50353
+Successfully changed project path to: C:/Users/Owner/Documents/GitHub/MegaGolfAssignment/MegaGolfAssignment
+C:/Users/Owner/Documents/GitHub/MegaGolfAssignment/MegaGolfAssignment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Owner/Documents/GitHub/MegaGolfAssignment/MegaGolfAssignment/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   
+    VRAM:     6084 MB
+    Driver:   22.21.13.8205
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005254 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.856 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.462 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1467 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.0 MB.
+System memory in use after: 72.1 MB.
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 1904.
+Total: 5.734100 ms (FindLiveObjects: 1.344200 ms CreateObjectMapping: 0.580100 ms MarkObjects: 3.584600 ms  DeleteObjects: 0.221000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MapPlans/Materials/ice.mat
+  artifactKey: Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/ice.mat using Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437f641ca540286c9b0fc11fb5392ad1') in 0.162080 seconds
+  Import took 0.166660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 353.244375 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029f2217b1476ee9dce8358b0d812848') in 0.195859 seconds
+  Import took 0.200045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.382965 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b4702112cb6800ae494e32f59110cc') in 0.017218 seconds
+  Import took 0.023158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.435178 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8206aeaa391d49506924ea5110c659c') in 0.016444 seconds
+  Import took 0.020542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.311800 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b116028736ca539a0e9e81cfa0e3a82') in 0.018236 seconds
+  Import took 0.022102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.939659 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69eaff8766a38b8d8b89e7046e467824') in 0.016858 seconds
+  Import took 0.024545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.472979 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f295bd2f9489bff9c628f88f203cc7') in 0.014987 seconds
+  Import took 0.026704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.467890 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9466f7888d99a4b65998c4b487d0d8f2') in 0.018629 seconds
+  Import took 0.022547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.107400 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26367cadc9844848830b9c1422329e64') in 0.016816 seconds
+  Import took 0.022237 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.5 MB.
+System memory in use after: 73.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 3.533800 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.063100 ms MarkObjects: 3.172000 ms  DeleteObjects: 0.066900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.046704 seconds.
+  path: Assets/ProBuilder Data/Default Color Palette.asset
+  artifactKey: Guid(47280ae5bf2a0904791b30fb8ec4f6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProBuilder Data/Default Color Palette.asset using Guid(47280ae5bf2a0904791b30fb8ec4f6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955acb8dceccc604c2f7cc3cd99a3fe0') in 0.015282 seconds
+  Import took 0.028167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.486479 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65621238412d9935520af7402d2269a') in 0.072553 seconds
+  Import took 0.077553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.606438 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d7d50f62f6a7d8095c1d7e09395fb8') in 0.025205 seconds
+  Import took 0.029441 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001242 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1950.
+Total: 4.843600 ms (FindLiveObjects: 1.337000 ms CreateObjectMapping: 0.126600 ms MarkObjects: 3.280500 ms  DeleteObjects: 0.093300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.874923 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94db5dc132394cbd8412f9c16effdf2d') in 0.077813 seconds
+  Import took 0.084469 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002303 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.3 MB.
+System memory in use after: 74.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 4.549500 ms (FindLiveObjects: 0.292900 ms CreateObjectMapping: 0.103000 ms MarkObjects: 3.870600 ms  DeleteObjects: 0.280700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001169 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.7 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1955.
+Total: 3.381500 ms (FindLiveObjects: 0.215500 ms CreateObjectMapping: 0.067000 ms MarkObjects: 2.995400 ms  DeleteObjects: 0.101900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001137 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.324 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.8 MB.
+System memory in use after: 74.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1957.
+Total: 4.511700 ms (FindLiveObjects: 0.202600 ms CreateObjectMapping: 0.064600 ms MarkObjects: 4.175000 ms  DeleteObjects: 0.067500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 74.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1959.
+Total: 5.874800 ms (FindLiveObjects: 0.509100 ms CreateObjectMapping: 0.152600 ms MarkObjects: 5.051600 ms  DeleteObjects: 0.159100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1700.296816 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df76f05dc1b95e27126b33603cb3e1f7') in 0.081089 seconds
+  Import took 0.085938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.921243 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa2ed09b48044fe195adc46bd358ad6') in 0.014638 seconds
+  Import took 0.019597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.993695 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d1ea9ad59fc8b0bec2db6274d1e822') in 0.022448 seconds
+  Import took 0.027657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.145675 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5468c52101761f8684513b559d3aad2f') in 0.017874 seconds
+  Import took 0.023590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.900601 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106b0cf1debe3a221e6a61f3482ddd0c') in 0.021134 seconds
+  Import took 0.025214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.889903 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f48c8ac4d0175f9d896a080740f1200') in 0.015077 seconds
+  Import took 0.023507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.925792 seconds.
+  path: Assets/MapPlans/Materials/ice.mat
+  artifactKey: Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/ice.mat using Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f853675680c738555a1eb72e9ea0aa6') in 0.037215 seconds
+  Import took 0.042344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015753 seconds.
+  path: Assets/MapPlans/Materials/ice.mat
+  artifactKey: Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/ice.mat using Guid(8ebff6195b72444459baadd84ccc4433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f853675680c738555a1eb72e9ea0aa6') in 0.015060 seconds
+  Import took 0.018964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.328941 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe08bb8155e734b4dc860b7227a5795c') in 0.019614 seconds
+  Import took 0.023392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.326 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.9 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1963.
+Total: 6.223600 ms (FindLiveObjects: 1.046600 ms CreateObjectMapping: 0.377400 ms MarkObjects: 4.691200 ms  DeleteObjects: 0.105200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.294857 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7354e0a17c264cd4cce44f0855867e4') in 0.103573 seconds
+  Import took 0.108203 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001249 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1433 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 5.919800 ms (FindLiveObjects: 0.618500 ms CreateObjectMapping: 0.396900 ms MarkObjects: 4.763500 ms  DeleteObjects: 0.136100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.323 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.5 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1968.
+Total: 5.130900 ms (FindLiveObjects: 0.368100 ms CreateObjectMapping: 0.148900 ms MarkObjects: 4.021300 ms  DeleteObjects: 0.590000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1021.192024 seconds.
+  path: Assets/Scripts/ballmovement.cs
+  artifactKey: Guid(9eabc921a1756bc40add22cbf2371dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ballmovement.cs using Guid(9eabc921a1756bc40add22cbf2371dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df1c7282bc76defea88fce0a9dea3d9') in 0.065788 seconds
+  Import took 0.069504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.804305 seconds.
+  path: Assets/Scripts/ballmovement.cs
+  artifactKey: Guid(9eabc921a1756bc40add22cbf2371dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ballmovement.cs using Guid(9eabc921a1756bc40add22cbf2371dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2d3c7418f8295b91597a26d336f5bd') in 0.003934 seconds
+  Import took 0.007670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1297.354875 seconds.
+  path: Assets/Scenes/SpringScene.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringScene.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4622c8ae67f460de742b5f92fd3897e6') in 0.006567 seconds
+  Import took 0.010453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.964390 seconds.
+  path: Assets/Scenes/WinterCourse.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/WinterCourse.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbf80ef91b8ea3322170bfd771be7d5') in 0.007301 seconds
+  Import took 0.011329 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.185 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1970.
+Total: 4.071700 ms (FindLiveObjects: 0.427400 ms CreateObjectMapping: 0.088200 ms MarkObjects: 2.958500 ms  DeleteObjects: 0.594800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 367.125334 seconds.
+  path: Assets/PreFabs/ball.prefab
+  artifactKey: Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ball.prefab using Guid(6e6b1e81710cd3c49875c2e6a6a2b2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3638efa40ee9c45489f79fb346d308f') in 0.095098 seconds
+  Import took 0.105299 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.357 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.4 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1973.
+Total: 4.209000 ms (FindLiveObjects: 0.465400 ms CreateObjectMapping: 0.201900 ms MarkObjects: 2.755000 ms  DeleteObjects: 0.785100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.751788 seconds.
+  path: Assets/PreFabs/ShotsUI.prefab
+  artifactKey: Guid(c0e3a977d333a54409bdd0e0908dc6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PreFabs/ShotsUI.prefab using Guid(c0e3a977d333a54409bdd0e0908dc6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd714d1912b04bb24ea3b95ca1900d584') in 0.124946 seconds
+  Import took 0.129435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 893.577066 seconds.
+  path: Assets/Scenes/SpringScene.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringScene.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a7d5c24416db53a2ccd0c27ecdabf2') in 0.011834 seconds
+  Import took 0.020490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.075252 seconds.
+  path: Assets/Scenes/SpringCourse.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringCourse.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ba73a00bbf0491190ee60cc6557e15') in 0.012164 seconds
+  Import took 0.018749 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.342 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 76.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 4.815300 ms (FindLiveObjects: 0.803900 ms CreateObjectMapping: 0.259700 ms MarkObjects: 2.963000 ms  DeleteObjects: 0.781100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3963.469591 seconds.
+  path: Assets/MapPlans/Materials/spring.mat
+  artifactKey: Guid(815353d1780fffe46b153665f37c578f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/spring.mat using Guid(815353d1780fffe46b153665f37c578f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f058808337b82d4c1ab03c5d270aee') in 0.103735 seconds
+  Import took 0.110714 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.429 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1978.
+Total: 5.599500 ms (FindLiveObjects: 0.606600 ms CreateObjectMapping: 0.218000 ms MarkObjects: 4.205600 ms  DeleteObjects: 0.566400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.937198 seconds.
+  path: Assets/MapPlans/Materials/grass.mat
+  artifactKey: Guid(d81d5cb3b39af0f468963f985b0aecc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/grass.mat using Guid(d81d5cb3b39af0f468963f985b0aecc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb802f4574d6eaa378d0c9231161f0a') in 0.086324 seconds
+  Import took 0.090955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.776501 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0924a3a45699fc207d904e9c3cd25f42') in 0.007391 seconds
+  Import took 0.011217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007821 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509fd12d0ea73b938f157d19e3145550') in 0.116673 seconds
+  Import took 0.120946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f254303e7d2f13a4e4887c63a55de9b') in 0.015739 seconds
+  Import took 0.020168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509fd12d0ea73b938f157d19e3145550') in 0.014961 seconds
+  Import took 0.019276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029319 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f254303e7d2f13a4e4887c63a55de9b') in 0.007023 seconds
+  Import took 0.011412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.040057 seconds.
+  path: Assets/MapPlans/Materials/grass.mat
+  artifactKey: Guid(d81d5cb3b39af0f468963f985b0aecc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/grass.mat using Guid(d81d5cb3b39af0f468963f985b0aecc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ebc23ef4a630b747fc0ecc834420ab4') in 0.016504 seconds
+  Import took 0.020861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.077476 seconds.
+  path: Assets/Scenes/SpringCourse.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringCourse.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a36f2dc26a3e041cc9cf2e99cc6c46') in 0.005308 seconds
+  Import took 0.008858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014944 seconds.
+  path: Assets/Scenes/SpringCourse.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringCourse.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a36f2dc26a3e041cc9cf2e99cc6c46') in 0.006248 seconds
+  Import took 0.010105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.451951 seconds.
+  path: Assets/Scenes/WinterCourse.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/WinterCourse.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75eb2d39ccdbd43494575bd397971e0') in 0.005920 seconds
+  Import took 0.009463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004273 seconds.
+  path: Assets/Scenes/WinterCourse.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/WinterCourse.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75eb2d39ccdbd43494575bd397971e0') in 0.004130 seconds
+  Import took 0.007349 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.359 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 76.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1982.
+Total: 5.055300 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.090800 ms MarkObjects: 3.554100 ms  DeleteObjects: 1.028600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 486.591390 seconds.
+  path: Assets/MapPlans/Materials/Physmat.physicMaterial
+  artifactKey: Guid(15202afec5aac05439aa98628e4e9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/Physmat.physicMaterial using Guid(15202afec5aac05439aa98628e4e9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd315cce53b74e7d935af93c30815c8cb') in 0.017758 seconds
+  Import took 0.022580 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002135 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1446 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.4 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 3.874100 ms (FindLiveObjects: 0.533400 ms CreateObjectMapping: 0.115000 ms MarkObjects: 2.542300 ms  DeleteObjects: 0.681700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 387.260152 seconds.
+  path: Assets/Scenes/SpringCourse.unity
+  artifactKey: Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpringCourse.unity using Guid(a5aac68e256508a4d8e95d547bd6d7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0597e9e05088ed7002a1b3cf9ddcf8c') in 0.010898 seconds
+  Import took 0.016543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/MapPlans/Materials/Physmat.physicMaterial
+  artifactKey: Guid(15202afec5aac05439aa98628e4e9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapPlans/Materials/Physmat.physicMaterial using Guid(15202afec5aac05439aa98628e4e9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8798e48e4ba23fda28cf565ea49e9fb') in 0.005004 seconds
+  Import took 0.008296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.840756 seconds.
+  path: Assets/Scenes/WinterCourse.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/WinterCourse.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5551c1d6176ad16f2e85579375c289') in 0.005182 seconds
+  Import took 0.010112 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
