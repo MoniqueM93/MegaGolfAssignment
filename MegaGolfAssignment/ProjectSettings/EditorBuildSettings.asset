@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SummerCourse.unity
     guid: 224401775767c9d42815a1376626f517
+  - enabled: 1
+    path: Assets/Scenes/endscene.unity
+    guid: f787d1d78394d8a40a10519c4aff5794
   m_configObjects: {}
